@@ -1,0 +1,42 @@
+body{
+  background-image: url("images/bg1.jpg");
+  position: relative;
+  background-size: cover;
+  /* background-position: center;*/
+  /* background-repeat: no-repeat;  */
+
+}
+
+#text{
+  padding-top: 200px;
+  padding-left: 150px;
+  color: beige;
+}
+
+.nav-item{
+ color: beige;
+}
+
+.login-header{
+  color: beige;
+}
+
+.login{
+
+  padding: 100px;
+  padding-left: 175px;
+  border-style: solid;
+  margin-left: 150px;
+  margin-right: 500px;
+  margin-top: 50px;
+  background-color: black;
+  
+}
+
+.login-form label{
+  color: beige;
+}
+
+tr{
+  margin-top: 25px;
+}
